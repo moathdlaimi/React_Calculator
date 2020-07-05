@@ -13,4 +13,4 @@
 
 ## Screenshot 
 
-![wireframe](https://giphy.com/gifs/ios-calculator-iphonecalculator-lRSQ7SfKi1w5vFiV0G)
+![](https://giphy.com/gifs/ios-calculator-iphonecalculator-lRSQ7SfKi1w5vFiV0G)
