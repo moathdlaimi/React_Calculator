@@ -2,7 +2,7 @@ class Screen extends React.Component {
     render = () => {
       return (
       <div className="row-one screen">
-        <h1 id="result">{this.props.value}</h1>
+        <h1 id="result">{this.props.value.length > 99 ? ' Long Number ' : this.props.value}</h1>
       </div>
       )
 
@@ -66,6 +66,7 @@ class App extends React.Component {
           this.setState ({
             value:this.state.value + button
           })
+          console.log((this.state.value));
         }
 
     }
