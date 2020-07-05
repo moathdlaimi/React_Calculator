@@ -13,4 +13,4 @@
 
 ## Screenshot 
 
-![](https://giphy.com/gifs/ios-calculator-iphonecalculator-lRSQ7SfKi1w5vFiV0G)
+![calculator-img](https://github.com/moathdlaimi/React_Calculator/blob/master/9.png)
